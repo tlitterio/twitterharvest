@@ -1,0 +1,58 @@
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.exe
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.exe
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\agsXMPP.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\TweetSharp.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.xml
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\TweetSharp.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\obj\x86\Debug\ResolveAssemblyReference.cache
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\bin\Debug\Matrix.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.exe
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.exe
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\agsXMPP.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Matrix.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TweetSharp.dll
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.xml
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TweetSharp.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.exe
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.exe
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\agsXMPP.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Matrix.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TweetSharp.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\bin\Debug\TweetSharp.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch\TwitterAPIScrape\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.exe
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.exe
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\TwitterAPIScrape.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\agsXMPP.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\Matrix.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\TweetSharp.dll
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\bin\Debug\TweetSharp.pdb
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterAPISearch-Prod\TwitterAPIScrape\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterStuff\TwitterAPISearch-Prod\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.exe
+C:\Users\Antoine\Documents\Visual Studio 2010\Projects\TwitterStuff\TwitterAPISearch-Prod\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.pdb

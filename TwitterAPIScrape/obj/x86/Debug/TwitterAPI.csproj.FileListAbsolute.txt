@@ -1,0 +1,2 @@
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.exe
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterAPIScrape\obj\x86\Debug\TwitterAPIScrape.pdb

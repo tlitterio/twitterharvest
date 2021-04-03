@@ -1,0 +1,5 @@
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterTest\bin\Debug\TwitterTest.exe
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterTest\bin\Debug\TwitterTest.pdb
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterTest\obj\x86\Debug\TwitterTest.exe
+\\gt-dw\User\tlitterio\My Documents\Visual Studio 2010\Projects\TwitterAPIScrape\TwitterTest\obj\x86\Debug\TwitterTest.pdb
